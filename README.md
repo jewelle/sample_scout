@@ -1,4 +1,4 @@
-# sample_scout
+# Sample Scout
 
 http://www.ericajewell.com/design/samplescout/
 
